@@ -1,4 +1,4 @@
-import { AxiosError, isAxiosError } from 'axios'
+import { isAxiosError } from 'axios'
 import { useEffect } from 'react'
 import { Outlet, useNavigate } from 'react-router-dom'
 
